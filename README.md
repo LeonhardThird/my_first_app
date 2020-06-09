@@ -12,5 +12,6 @@
 - django-bootstrap4
 
 # テストアカウント
+- deploy先URL: http://18.176.132.175:8000/posts/
 - ID: root
 - password: leon1939
